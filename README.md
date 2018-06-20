@@ -1,2 +1,5 @@
 # infosec-books
-collection of  information security books 
+Here is a collection of  information security books.
+
+# Notice
+All e-books are very clear and copyable.
